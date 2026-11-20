@@ -9,6 +9,7 @@ import MenuItemRoute from "./Routes/MenuItemRoute.js";
 import FoodTypeRoute from "./Routes/FoodTypeRoutes.js";
 import OrderTypeRoute from "./Routes/OrderTypeRoutes.js";
 import LocationRoute from "./Routes/LocationRoutes.js";
+import EmployeeRoute from "./Routes/EmployeeRoute.js";
 
 const app = express();
 
@@ -33,6 +34,8 @@ app.use("/menu-items", MenuItemRoute);
 app.use("/food-types", FoodTypeRoute);
 app.use("/order-types", OrderTypeRoute);
 app.use("/locations", LocationRoute);
+app.use("/employees", EmployeeRoute);
+
 
 
 //=====Routes=====
