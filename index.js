@@ -10,6 +10,9 @@ import FoodTypeRoute from "./Routes/FoodTypeRoutes.js";
 import OrderTypeRoute from "./Routes/OrderTypeRoutes.js";
 import LocationRoute from "./Routes/LocationRoutes.js";
 import EmployeeRoute from "./Routes/EmployeeRoute.js";
+import PositionRoute from "./Routes/PositionRoute.js";
+import EmployeeTypeRoute from "./Routes/EmployeeTypeRoute.js";
+
 
 const app = express();
 
@@ -35,6 +38,8 @@ app.use("/food-types", FoodTypeRoute);
 app.use("/order-types", OrderTypeRoute);
 app.use("/locations", LocationRoute);
 app.use("/employees", EmployeeRoute);
+app.use("/positions", PositionRoute);
+app.use("/employee-types", EmployeeTypeRoute);
 
 
 
