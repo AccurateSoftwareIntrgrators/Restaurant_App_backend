@@ -1,0 +1,33 @@
+{"level":30,"time":"2026-11-20T15:19:06.392Z","service":"restaurant-api","env":"development","pid":7002,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:19:06.537Z","service":"restaurant-api","env":"development","pid":7002,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:19:06.539Z","service":"restaurant-api","env":"development","pid":7002,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:19:06.541Z","service":"restaurant-api","env":"development","pid":7002,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:19:41.492Z","service":"restaurant-api","env":"development","pid":7083,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:19:41.588Z","service":"restaurant-api","env":"development","pid":7083,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:19:41.597Z","service":"restaurant-api","env":"development","pid":7083,"tables":["employees"],"msg":"New tables created"}
+{"level":30,"time":"2026-11-20T15:19:41.598Z","service":"restaurant-api","env":"development","pid":7083,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:23:06.208Z","service":"restaurant-api","env":"development","pid":7269,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:23:06.305Z","service":"restaurant-api","env":"development","pid":7269,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:23:06.345Z","service":"restaurant-api","env":"development","pid":7269,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:23:06.346Z","service":"restaurant-api","env":"development","pid":7269,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:24:15.698Z","service":"restaurant-api","env":"development","pid":7440,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:24:15.801Z","service":"restaurant-api","env":"development","pid":7440,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:24:15.826Z","service":"restaurant-api","env":"development","pid":7440,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:24:15.828Z","service":"restaurant-api","env":"development","pid":7440,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:24:42.711Z","service":"restaurant-api","env":"development","pid":7534,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:24:42.821Z","service":"restaurant-api","env":"development","pid":7534,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:24:42.847Z","service":"restaurant-api","env":"development","pid":7534,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:24:42.848Z","service":"restaurant-api","env":"development","pid":7534,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:24:48.143Z","service":"restaurant-api","env":"development","pid":7609,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:24:48.260Z","service":"restaurant-api","env":"development","pid":7609,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:24:48.292Z","service":"restaurant-api","env":"development","pid":7609,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:24:48.293Z","service":"restaurant-api","env":"development","pid":7609,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:26:55.686Z","service":"restaurant-api","env":"development","pid":7783,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:26:55.892Z","service":"restaurant-api","env":"development","pid":7783,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:26:55.928Z","service":"restaurant-api","env":"development","pid":7783,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:26:55.929Z","service":"restaurant-api","env":"development","pid":7783,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:28:32.060Z","service":"restaurant-api","env":"development","pid":7903,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-20T15:28:32.174Z","service":"restaurant-api","env":"development","pid":7903,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-20T15:28:32.209Z","service":"restaurant-api","env":"development","pid":7903,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-20T15:28:32.210Z","service":"restaurant-api","env":"development","pid":7903,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-20T15:28:38.946Z","service":"restaurant-api","env":"development","pid":7903,"signal":"SIGINT","msg":"Shutting down"}

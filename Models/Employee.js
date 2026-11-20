@@ -11,6 +11,11 @@ const Employee = sequelize.define("Employee", {
   emergencyContact: { type: DataTypes.STRING(100), allowNull: true },
   position: { type: DataTypes.STRING(100), allowNull: false },
   salary: { type: DataTypes.DECIMAL(10, 2), allowNull: false },
+  employmentDate: { type: DataTypes.DATE, allowNull: false, defaultValue: DataTypes.NOW },
+  employeeStatus: { type: DataTypes.ENUM("active", "inactive"), allowNull: false, defaultValue: "active" },
+  employeeType: { type: DataTypes.ENUM("full-time", "part-time", "contractor"), allowNull: false, defaultValue: "full-time" },
+  employeeId: { type: DataTypes.STRING(50), allowNull: false, unique: true },
+  isDeleted: { type: DataTypes.BOOLEAN, defaultValue: false },
 });
 
 export default Employee;
