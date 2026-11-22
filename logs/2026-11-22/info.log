@@ -1,0 +1,158 @@
+{"level":30,"time":"2026-11-22T06:03:37.259Z","service":"restaurant-api","env":"development","pid":2932,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-22T06:03:37.431Z","service":"restaurant-api","env":"development","pid":2932,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-22T06:03:37.537Z","service":"restaurant-api","env":"development","pid":2932,"module":"InventoryItem","table":"inventory_items","msg":"InventoryItem table is ready"}
+{"level":30,"time":"2026-11-22T06:07:00.067Z","service":"restaurant-api","env":"development","pid":3755,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-22T06:07:00.086Z","service":"restaurant-api","env":"development","pid":3755,"module":"InventoryItem","table":"inventory_items","msg":"InventoryItem table is ready"}
+{"level":30,"time":"2026-11-22T06:07:44.357Z","service":"restaurant-api","env":"development","pid":4006,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-22T06:07:44.378Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","table":"inventory_items","msg":"InventoryItem table is ready"}
+{"level":30,"time":"2026-11-22T06:07:44.434Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":1,"name":"Basmati Rice","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.437Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":2,"name":"Raw Rice (Ponni)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.440Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":3,"name":"Idli Rice","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.443Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":4,"name":"Wheat Flour (Atta)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.447Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":5,"name":"Maida","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.449Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":6,"name":"Rava (Semolina)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.452Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":7,"name":"Rice Flour","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.455Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":8,"name":"Corn Flour","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.457Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":9,"name":"Poha","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.460Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":10,"name":"Vermicelli","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.463Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":11,"name":"Noodles","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.465Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":12,"name":"Pasta","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.468Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":13,"name":"Bread Crumbs","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.472Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":14,"name":"Toor Dal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.475Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":15,"name":"Urad Dal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.477Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":16,"name":"Chana Dal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.480Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":17,"name":"Moong Dal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.483Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":18,"name":"Masoor Dal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.485Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":19,"name":"Rajma","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.488Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":20,"name":"Chickpeas (Kabuli Chana)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.490Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":21,"name":"Green Gram","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.494Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":22,"name":"Turmeric Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.497Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":23,"name":"Red Chilli Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.499Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":24,"name":"Coriander Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.501Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":25,"name":"Cumin Seeds","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.504Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":26,"name":"Mustard Seeds","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.507Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":27,"name":"Black Pepper","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.510Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":28,"name":"Cardamom","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.513Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":29,"name":"Cloves","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.515Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":30,"name":"Cinnamon","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.518Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":31,"name":"Bay Leaf","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.520Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":32,"name":"Star Anise","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.523Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":33,"name":"Fennel Seeds","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.525Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":34,"name":"Fenugreek Seeds","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.528Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":35,"name":"Asafoetida (Hing)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.530Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":36,"name":"Garam Masala","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.532Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":37,"name":"Biryani Masala","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.535Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":38,"name":"Chicken Masala","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.538Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":39,"name":"Sambar Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.540Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":40,"name":"Salt","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.542Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":41,"name":"Tamarind","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.547Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":42,"name":"Sugar","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.549Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":43,"name":"Jaggery","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.551Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":44,"name":"Honey","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.554Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":45,"name":"Condensed Milk","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.558Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":46,"name":"Onion","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.560Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":47,"name":"Tomato","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.562Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":48,"name":"Potato","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.565Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":49,"name":"Carrot","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.568Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":50,"name":"Beans","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.571Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":51,"name":"Cabbage","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.573Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":52,"name":"Cauliflower","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.575Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":53,"name":"Capsicum","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.578Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":54,"name":"Brinjal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.581Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":55,"name":"Cucumber","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.582Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":56,"name":"Beetroot","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.585Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":57,"name":"Green Peas","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.587Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":58,"name":"Ladies Finger (Okra)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.589Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":59,"name":"Ginger","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.625Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":60,"name":"Garlic","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.634Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":61,"name":"Green Chilli","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.637Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":62,"name":"Coriander Leaves","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.640Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":63,"name":"Mint Leaves","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.642Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":64,"name":"Curry Leaves","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.645Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":65,"name":"Spring Onion","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.647Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":66,"name":"Lemon","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.651Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":67,"name":"Coconut","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.655Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":68,"name":"Banana","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.657Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":69,"name":"Apple","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.660Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":70,"name":"Orange","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.662Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":71,"name":"Pineapple","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.665Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":72,"name":"Watermelon","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.667Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":73,"name":"Mango","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.670Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":74,"name":"Grapes","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.672Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":75,"name":"Pomegranate","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.676Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":76,"name":"Chicken","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.678Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":77,"name":"Mutton","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.681Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":78,"name":"Eggs","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.683Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":79,"name":"Fish","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.685Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":80,"name":"Prawns","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.688Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":81,"name":"Crab","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.692Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":82,"name":"Milk","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.696Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":83,"name":"Curd","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.698Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":84,"name":"Butter","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.700Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":85,"name":"Ghee","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.702Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":86,"name":"Paneer","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.705Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":87,"name":"Cheese","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.707Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":88,"name":"Fresh Cream","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.711Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":89,"name":"Sunflower Oil","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.713Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":90,"name":"Coconut Oil","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.716Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":91,"name":"Groundnut Oil","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.718Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":92,"name":"Olive Oil","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.720Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":93,"name":"Vanaspati","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.724Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":94,"name":"Tea Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.726Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":95,"name":"Coffee Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.729Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":96,"name":"Mineral Water Bottle","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.731Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":97,"name":"Soft Drinks","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.733Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":98,"name":"Packaged Fruit Juice","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.735Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":99,"name":"Soda","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.738Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":100,"name":"Tender Coconut","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.741Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":101,"name":"Tomato Ketchup","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.745Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":102,"name":"Soy Sauce","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.747Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":103,"name":"Chilli Sauce","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.749Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":104,"name":"Schezwan Sauce","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.752Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":105,"name":"Vinegar","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.754Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":106,"name":"Mayonnaise","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.756Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":107,"name":"Pickle","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.758Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":108,"name":"Food Colour","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.762Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":109,"name":"Bread","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.765Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":110,"name":"Burger Buns","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.767Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":111,"name":"Pizza Base","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.769Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":112,"name":"Baking Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.771Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":113,"name":"Baking Soda","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.773Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":114,"name":"Yeast","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.775Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":115,"name":"Cocoa Powder","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.779Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":116,"name":"Frozen Peas","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.782Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":117,"name":"French Fries","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.783Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":118,"name":"Ice Cream","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.785Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":119,"name":"Frozen Chicken Nuggets","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.789Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":120,"name":"Cashew Nuts","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.791Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":121,"name":"Almonds","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.794Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":122,"name":"Raisins","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.796Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":123,"name":"Pistachios","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.799Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":124,"name":"Peanuts","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.802Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":125,"name":"Takeaway Containers","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.804Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":126,"name":"Paper Bags","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.806Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":127,"name":"Carry Bags","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.808Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":128,"name":"Aluminium Foil","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.811Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":129,"name":"Cling Wrap","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.813Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":130,"name":"Paper Cups","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.815Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":131,"name":"Paper Plates","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.817Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":132,"name":"Straws","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.819Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":133,"name":"Tissue Paper / Napkins","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.821Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":134,"name":"Parcel Boxes","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.823Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":135,"name":"Banana Leaf","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.828Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":136,"name":"Dishwash Liquid","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.830Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":137,"name":"Floor Cleaner","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.832Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":138,"name":"Hand Wash","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.834Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":139,"name":"Sanitizer","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.836Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":140,"name":"Garbage Bags","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.838Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":141,"name":"Disposable Gloves","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.840Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":142,"name":"Scrub Pads","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.843Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":143,"name":"Mop","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.846Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":144,"name":"LPG Cylinder (Commercial)","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:07:44.848Z","service":"restaurant-api","env":"development","pid":4006,"module":"InventoryItem","itemId":145,"name":"Charcoal","msg":"Inventory item created"}
+{"level":30,"time":"2026-11-22T06:48:30.288Z","service":"restaurant-api","env":"development","pid":4776,"module":"database","db":"restaurant_project","host":"localhost","msg":"Database connected"}
+{"level":30,"time":"2026-11-22T06:48:30.392Z","service":"restaurant-api","env":"development","pid":4776,"module":"MenuItem","table":"menu_items","msg":"MenuItem table is ready"}
+{"level":30,"time":"2026-11-22T06:48:30.534Z","service":"restaurant-api","env":"development","pid":4776,"module":"InventoryItem","table":"inventory_items","msg":"InventoryItem table is ready"}
+{"level":30,"time":"2026-11-22T06:48:30.562Z","service":"restaurant-api","env":"development","pid":4776,"msg":"Database synced, no new tables"}
+{"level":30,"time":"2026-11-22T06:48:30.563Z","service":"restaurant-api","env":"development","pid":4776,"port":"3001","msg":"Server started"}
+{"level":30,"time":"2026-11-22T06:48:37.851Z","service":"restaurant-api","env":"development","pid":4776,"signal":"SIGINT","msg":"Shutting down"}
